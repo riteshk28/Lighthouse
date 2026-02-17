@@ -1,0 +1,5 @@
+{
+  "name": "Web Vitals Dashboard",
+  "description": "A sleek, minimalist visualization of web performance metrics comparing June and July data across various application pages.",
+  "requestFramePermissions": []
+}
